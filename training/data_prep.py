@@ -1,16 +1,31 @@
 """
 data_prep.py
 Converts the DeepX xlsx files into JSONL chat format for QLoRA fine-tuning.
+
+Inputs:
+  - ../data/cleaned/DeepX_train_cleaned.xlsx
+  - ../data/cleaned/DeepX_unlabeled_cleaned.xlsx
+  - ../data/raw/DeepX_validation.xlsx
+
 Outputs:
-  - data/train.jsonl        (labeled train data)
-  - data/pseudo_ready.jsonl (unlabeled reviews formatted for pseudo-labeling)
-  - data/val.jsonl          (validation data)
+  - ./data/train.jsonl
+  - ./data/pseudo_ready.jsonl
+  - ./data/val.jsonl
 """
 
-import os, json, ast
+import ast
+import json
+from pathlib import Path
+
 import pandas as pd
 
-os.makedirs("data", exist_ok=True)
+SCRIPT_DIR = Path(__file__).resolve().parent
+REPO_ROOT = SCRIPT_DIR.parent
+OUTPUT_DIR = SCRIPT_DIR / "data"
+CLEANED_DIR = REPO_ROOT / "data" / "cleaned"
+RAW_DIR = REPO_ROOT / "data" / "raw"
+
+OUTPUT_DIR.mkdir(exist_ok=True)
 
 SYSTEM_PROMPT = (
     "You are an expert Aspect-Based Sentiment Analysis (ABSA) system. "
@@ -21,8 +36,10 @@ SYSTEM_PROMPT = (
     '{"aspects": ["aspect1", "aspect2"], "aspect_sentiments": {"aspect1": "positive", "aspect2": "negative"}}'
 )
 
+
 def make_user_msg(review_text: str) -> str:
     return f"Analyze this review:\n{review_text.strip()}"
+
 
 def parse_field(val):
     if isinstance(val, (list, dict)):
@@ -31,53 +48,54 @@ def parse_field(val):
         return ast.literal_eval(val)
     return val
 
+
 def build_labeled_sample(row) -> dict:
     aspects = parse_field(row["aspects"])
     sentiments = parse_field(row["aspect_sentiments"])
     assistant_reply = json.dumps(
         {"aspects": aspects, "aspect_sentiments": sentiments},
-        ensure_ascii=False
+        ensure_ascii=False,
     )
     return {
         "review_id": int(row["review_id"]),
         "messages": [
-            {"role": "system",    "content": SYSTEM_PROMPT},
-            {"role": "user",      "content": make_user_msg(row["review_text"])},
+            {"role": "system", "content": SYSTEM_PROMPT},
+            {"role": "user", "content": make_user_msg(row["review_text"])},
             {"role": "assistant", "content": assistant_reply},
-        ]
+        ],
     }
+
 
 def build_inference_sample(row) -> dict:
     return {
         "review_id": int(row["review_id"]),
         "messages": [
             {"role": "system", "content": SYSTEM_PROMPT},
-            {"role": "user",   "content": make_user_msg(row["review_text"])},
-        ]
+            {"role": "user", "content": make_user_msg(row["review_text"])},
+        ],
     }
 
-def write_jsonl(records, path):
+
+def write_jsonl(records, path: Path):
     with open(path, "w", encoding="utf-8") as f:
-        for r in records:
-            f.write(json.dumps(r, ensure_ascii=False) + "\n")
-    print(f"  Wrote {len(records):,} records → {path}")
+        for record in records:
+            f.write(json.dumps(record, ensure_ascii=False) + "\n")
+    print(f"  Wrote {len(records):,} records -> {path}")
 
-# ── Labeled train ──────────────────────────────────────────────────────────────
+
 print("Processing train data...")
-train_df = pd.read_excel("DeepX_train_cleaned.xlsx")
+train_df = pd.read_excel(CLEANED_DIR / "DeepX_train_cleaned.xlsx")
 train_records = [build_labeled_sample(row) for _, row in train_df.iterrows()]
-write_jsonl(train_records, "data/train.jsonl")
+write_jsonl(train_records, OUTPUT_DIR / "train.jsonl")
 
-# ── Unlabeled (for pseudo-labeling) ───────────────────────────────────────────
 print("Processing unlabeled data...")
-unlabeled_df = pd.read_excel("DeepX_unlabeled_cleaned.xlsx")
+unlabeled_df = pd.read_excel(CLEANED_DIR / "DeepX_unlabeled_cleaned.xlsx")
 unlabeled_records = [build_inference_sample(row) for _, row in unlabeled_df.iterrows()]
-write_jsonl(unlabeled_records, "data/pseudo_ready.jsonl")
+write_jsonl(unlabeled_records, OUTPUT_DIR / "pseudo_ready.jsonl")
 
-# ── Validation ────────────────────────────────────────────────────────────────
 print("Processing validation data...")
-val_df = pd.read_excel("DeepX_validation.xlsx")
+val_df = pd.read_excel(RAW_DIR / "DeepX_validation.xlsx")
 val_records = [build_labeled_sample(row) for _, row in val_df.iterrows()]
-write_jsonl(val_records, "data/val.jsonl")
+write_jsonl(val_records, OUTPUT_DIR / "val.jsonl")
 
-print("\nDone. Files in ./data/")
+print(f"\nDone. Files in {OUTPUT_DIR}")
