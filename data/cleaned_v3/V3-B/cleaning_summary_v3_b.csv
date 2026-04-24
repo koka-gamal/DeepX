@@ -1,0 +1,3 @@
+﻿dataset,original_rows,cleaned_rows,removed_rows,removed_empty,removed_punctuation_only,removed_gibberish_like,removed_exact_duplicates,removed_review_bomb_duplicates,removed_arabizi_like,review_bomb_groups_detected,generic_sentiment_review_bomb_groups,generic_sentiment_bomb_keep_ratio,version
+train,1971,1935,36,0,0,2,23,11,0,1,1,0.4,V3-B
+unlabeled,7047,6462,585,0,0,5,331,236,13,18,16,0.4,V3-B

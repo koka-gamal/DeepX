@@ -1,0 +1,37 @@
+﻿review_id,review_text,star_rating,date,business_name,business_category,platform,aspects,aspect_sentiments,removal_reason,review_bomb_group_size,review_bomb_keep_count,flag_generic_sentiment_review_bomb,flag_arabizi_like
+8841,هلو كثيييييييييييييييييييييييرييييييييييييييييييييييييييييييييي يييييييييييي يييييييييييي يييييييييييي يييييييييييي,5,2026-01-29 00:00:00,Anghami,entertainment,play_store,"[""none""]","{""none"": ""neutral""}",gibberish_like,0,1,False,False
+7854,ممتاز,5,2026-02-27 00:00:00,Amazon,ecommerce,play_store,"[""general""]","{""general"": ""positive""}",exact_duplicate_same_business_rating_platform,19,1,False,False
+6858,ممتاز جدا,5,2026-03-12 00:00:00,Uber,transport,play_store,"[""general""]","{""general"": ""positive""}",exact_duplicate_same_business_rating_platform,4,1,False,False
+7469,ممتاز,5,2026-02-13 00:00:00,Jumia,ecommerce,play_store,"[""general""]","{""general"": ""positive""}",exact_duplicate_same_business_rating_platform,19,1,False,False
+5338,ممتاز,5,قبل 3 سنوات,التالته شمال للملابس الرياضية,متجر ملابس رياضية,google_maps,"[""general""]","{""general"": ""positive""}",review_bomb_duplicate,19,8,True,False
+7324,ممتاز,5,2026-03-06 00:00:00,Noon,ecommerce,play_store,"[""general""]","{""general"": ""positive""}",exact_duplicate_same_business_rating_platform,19,1,False,False
+9283,جاااااااامد اااااااااااااااااااااااااوووووويييي,5,2026-03-02 00:00:00,Spotify,entertainment,play_store,"[""general""]","{""general"": ""positive""}",gibberish_like,0,1,False,False
+7025,ممتاز,5,2026-03-09 00:00:00,Uber,transport,play_store,"[""general""]","{""general"": ""positive""}",review_bomb_duplicate,19,8,True,False
+3295,ممتاز,5,قبل 5 أشهر,مطعم فول وفلافل السني,مطعم فلافل,google_maps,"[""general""]","{""general"": ""positive""}",review_bomb_duplicate,19,8,True,False
+7358,تمام,5,2026-03-05 00:00:00,Noon,ecommerce,play_store,"[""general""]","{""general"": ""positive""}",exact_duplicate_same_business_rating_platform,2,1,False,False
+6764,ممتاز,5,2026-01-30 00:00:00,Careem,transport,play_store,"[""general""]","{""general"": ""positive""}",review_bomb_duplicate,19,8,True,False
+7583,ممتاز,5,2025-12-30 00:00:00,Jumia,ecommerce,play_store,"[""general""]","{""general"": ""positive""}",exact_duplicate_same_business_rating_platform,19,1,False,False
+6075,ممتاز,5,قبل 3 سنوات,فول فلافل المعلمين,مطعم فلافل,google_maps,"[""general""]","{""general"": ""positive""}",review_bomb_duplicate,19,8,True,False
+123,Shady,5,قبل 12 ساعة,شتيجنبرجر,فندق,google_maps,"[""none""]","{""none"": ""neutral""}",exact_duplicate_same_business_rating_platform,1,1,False,False
+713,ممتاز,5,قبل 3 أيام,قصر الكبابجي,مطعم مأكولات مصرية,google_maps,"[""general""]","{""general"": ""positive""}",review_bomb_duplicate,19,8,True,False
+114,Shady,5,قبل 11 ساعة,شتيجنبرجر,فندق,google_maps,"[""none""]","{""none"": ""neutral""}",exact_duplicate_same_business_rating_platform,1,1,False,False
+7359,ممتاز,5,2026-03-05 00:00:00,Noon,ecommerce,play_store,"[""general""]","{""general"": ""positive""}",exact_duplicate_same_business_rating_platform,19,1,False,False
+6900,ممتاز,4,2026-03-11 00:00:00,Uber,transport,play_store,"[""general""]","{""general"": ""positive""}",review_bomb_duplicate,19,8,True,False
+24,ممتاز,5,قبل 4 أيام,مطعم صبحي كابر,مطعم مأكولات مصرية,google_maps,"[""general""]","{""general"": ""positive""}",review_bomb_duplicate,19,8,True,False
+7259,ممتاز,5,2026-03-08 00:00:00,Noon,ecommerce,play_store,"[""general""]","{""general"": ""positive""}",exact_duplicate_same_business_rating_platform,19,1,False,False
+7457,ممتاز,5,2026-02-14 00:00:00,Jumia,ecommerce,play_store,"[""general""]","{""general"": ""positive""}",exact_duplicate_same_business_rating_platform,19,1,False,False
+16,ممتاز,5,قبل يوم واحد,كايرو فستيفال سيتي مول,مركز تسوق,google_maps,"[""general""]","{""general"": ""positive""}",review_bomb_duplicate,19,8,True,False
+7555,ممتاز,5,2026-01-15 00:00:00,Jumia,ecommerce,play_store,"[""general""]","{""general"": ""positive""}",exact_duplicate_same_business_rating_platform,19,1,False,False
+7329,ممتاز,5,2026-03-06 00:00:00,Noon,ecommerce,play_store,"[""general""]","{""general"": ""positive""}",exact_duplicate_same_business_rating_platform,19,1,False,False
+109,Shady,5,قبل 11 ساعة,شتيجنبرجر,فندق,google_maps,"[""none""]","{""none"": ""neutral""}",exact_duplicate_same_business_rating_platform,1,1,False,False
+7204,ممتاز,5,2026-03-09 00:00:00,Noon,ecommerce,play_store,"[""general""]","{""general"": ""positive""}",exact_duplicate_same_business_rating_platform,19,1,False,False
+4037,ممتاز,5,قبل 4 أشهر,سوبر ماركت القدس,متجر بقالة,google_maps,"[""general""]","{""general"": ""positive""}",review_bomb_duplicate,19,8,True,False
+7498,ممتاز,5,2026-02-04 00:00:00,Jumia,ecommerce,play_store,"[""general""]","{""general"": ""positive""}",exact_duplicate_same_business_rating_platform,19,1,False,False
+7102,ممتاز,1,2026-03-13 00:00:00,Noon,ecommerce,play_store,"[""general""]","{""general"": ""positive""}",review_bomb_duplicate,19,8,True,False
+6522,ممتاز,5,2026-03-11 00:00:00,Careem,transport,play_store,"[""general""]","{""general"": ""positive""}",exact_duplicate_same_business_rating_platform,19,1,False,False
+7338,ممتاز,5,2026-03-05 00:00:00,Noon,ecommerce,play_store,"[""general""]","{""general"": ""positive""}",exact_duplicate_same_business_rating_platform,19,1,False,False
+7127,ممتاز,5,2026-03-12 00:00:00,Noon,ecommerce,play_store,"[""general""]","{""general"": ""positive""}",exact_duplicate_same_business_rating_platform,19,1,False,False
+7242,جميل,5,2026-03-08 00:00:00,Noon,ecommerce,play_store,"[""general""]","{""general"": ""positive""}",exact_duplicate_same_business_rating_platform,8,1,False,False
+6696,ممتاز,5,2026-02-07 00:00:00,Careem,transport,play_store,"[""general""]","{""general"": ""positive""}",exact_duplicate_same_business_rating_platform,19,1,False,False
+3297,ممتاز,5,قبل 6 أشهر,مطعم فول وفلافل السني,مطعم فلافل,google_maps,"[""general""]","{""general"": ""positive""}",exact_duplicate_same_business_rating_platform,19,1,False,False
+7191,ممتاز,5,2026-03-09 00:00:00,Noon,ecommerce,play_store,"[""general""]","{""general"": ""positive""}",exact_duplicate_same_business_rating_platform,19,1,False,False

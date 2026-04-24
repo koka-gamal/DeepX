@@ -1,0 +1,588 @@
+﻿review_id,review_text,star_rating,date,business_name,business_category,platform,removal_reason,review_bomb_group_size,review_bomb_keep_count,flag_generic_sentiment_review_bomb,flag_arabizi_like
+101,Shady,5,قبل 11 ساعة,شتيجنبرجر,فندق,google_maps,exact_duplicate_same_business_rating_platform,1,1,False,False
+102,Shady,5,قبل 11 ساعة,شتيجنبرجر,فندق,google_maps,exact_duplicate_same_business_rating_platform,1,1,False,False
+103,Shady,5,قبل 11 ساعة,شتيجنبرجر,فندق,google_maps,exact_duplicate_same_business_rating_platform,1,1,False,False
+104,Shady,5,قبل 11 ساعة,شتيجنبرجر,فندق,google_maps,exact_duplicate_same_business_rating_platform,1,1,False,False
+105,Shady,5,قبل 11 ساعة,شتيجنبرجر,فندق,google_maps,exact_duplicate_same_business_rating_platform,1,1,False,False
+106,shady,5,قبل 11 ساعة,شتيجنبرجر,فندق,google_maps,exact_duplicate_same_business_rating_platform,1,1,False,False
+108,Shady,5,قبل 11 ساعة,شتيجنبرجر,فندق,google_maps,exact_duplicate_same_business_rating_platform,1,1,False,False
+110,Shady,5,قبل 11 ساعة,شتيجنبرجر,فندق,google_maps,exact_duplicate_same_business_rating_platform,1,1,False,False
+111,Shady,5,قبل 11 ساعة,شتيجنبرجر,فندق,google_maps,exact_duplicate_same_business_rating_platform,1,1,False,False
+112,Shady,5,قبل 11 ساعة,شتيجنبرجر,فندق,google_maps,exact_duplicate_same_business_rating_platform,1,1,False,False
+113,Shady,5,قبل 11 ساعة,شتيجنبرجر,فندق,google_maps,exact_duplicate_same_business_rating_platform,1,1,False,False
+116,Shady,5,قبل 11 ساعة,شتيجنبرجر,فندق,google_maps,exact_duplicate_same_business_rating_platform,1,1,False,False
+117,Shady,5,قبل 11 ساعة,شتيجنبرجر,فندق,google_maps,exact_duplicate_same_business_rating_platform,1,1,False,False
+118,Shady,5,قبل 12 ساعة,شتيجنبرجر,فندق,google_maps,exact_duplicate_same_business_rating_platform,1,1,False,False
+119,Shady,5,قبل 12 ساعة,شتيجنبرجر,فندق,google_maps,exact_duplicate_same_business_rating_platform,1,1,False,False
+120,Shady,5,قبل 12 ساعة,شتيجنبرجر,فندق,google_maps,exact_duplicate_same_business_rating_platform,1,1,False,False
+121,Shady,5,قبل 12 ساعة,شتيجنبرجر,فندق,google_maps,exact_duplicate_same_business_rating_platform,1,1,False,False
+122,Shady,5,قبل 12 ساعة,شتيجنبرجر,فندق,google_maps,exact_duplicate_same_business_rating_platform,1,1,False,False
+165,Teem garden To7faaa❤️❤️❤️,5,قبل 3 أيام,النيلو,مطعم مأكولات إيطالية,google_maps,arabizi_like,1,1,False,True
+166,Team Garden the best,5,قبل 3 أيام,النيلو,مطعم مأكولات إيطالية,google_maps,exact_duplicate_same_business_rating_platform,1,1,False,False
+167,Teem garden to7faaa,5,قبل 3 أيام,النيلو,مطعم مأكولات إيطالية,google_maps,arabizi_like,1,1,False,True
+168,stuff tohfa awii w team garden khater w karim 3asol gdannn gdannn tohfa 😍😍😍😍,5,قبل 3 أيام,النيلو,مطعم مأكولات إيطالية,google_maps,arabizi_like,1,1,False,True
+169,Stuff tohfaa w team garden khater w Karim shater gdan bgd mkan tohfa moot😍😍😍😍😍😍❤️,5,قبل 3 أيام,النيلو,مطعم مأكولات إيطالية,google_maps,arabizi_like,1,1,False,True
+805,ممتاز,5,قبل شهر,المنوفي الكبابجي - كامل المنوفي فرع الشيخ زايد,مطعم مأكولات مشوية,google_maps,exact_duplicate_same_business_rating_platform,62,1,False,False
+833,Mesh 7elw nehaaa2yy,1,قبل 3 أيام,مطعم العودة,مطعم مأكولات الشرق الأوسط,google_maps,arabizi_like,1,1,False,True
+1190,خدمة ممتازة,5,قبل 3 أسابيع,مستشفى كليوباترا,مستشفى,google_maps,exact_duplicate_same_business_rating_platform,5,1,False,False
+1193,خدمة ممتازة,5,قبل 3 أسابيع,مستشفى كليوباترا,مستشفى,google_maps,exact_duplicate_same_business_rating_platform,5,1,False,False
+1291,Mahmoud Farag was so helpful,5,قبل شهر,Caracas,مطعم مأكولات لبنانية,google_maps,exact_duplicate_same_business_rating_platform,1,1,False,False
+1339,خدمه ممتازه,5,قبل أسبوع,بارك مول,مركز تسوق,google_maps,review_bomb_duplicate,12,1,False,False
+1749,خدمه ممتازه,5,تاريخ التعديل: قبل أسبوع,مترو ماركت,سوبرماركت,google_maps,review_bomb_duplicate,12,1,False,False
+1753,ممتاز,5,تاريخ التعديل: قبل شهر,مترو ماركت,سوبرماركت,google_maps,exact_duplicate_same_business_rating_platform,62,1,False,False
+1939,خدمه ممتازه,5,قبل 6 أشهر,تاج الشام TAG ELSHAM RESTAURANT,مطعم مأكولات سورية,google_maps,review_bomb_duplicate,12,1,False,False
+2114,ممتاز,5,تاريخ التعديل: قبل شهرين,صاج وشاورما,مطعم شاورما,google_maps,exact_duplicate_same_business_rating_platform,62,1,False,False
+2868,ممتاز,5,قبل شهر,مطعم وكافيه نعومي,مطعم,google_maps,exact_duplicate_same_business_rating_platform,62,1,False,False
+2869,ممتاز,5,تاريخ التعديل: قبل شهر,مطعم وكافيه نعومي,مطعم,google_maps,exact_duplicate_same_business_rating_platform,62,1,False,False
+2904,Tomas mn ashtar el nas 2ly 3mlt sha3ry ma3ahom bgd w bgilo mn a5r el donia 3lshan e3mly sha3ry a7san el nas 2ly mwgodin fil salon,5,قبل شهر,ELLE Salon,صالون تجميل,google_maps,arabizi_like,1,1,False,True
+3089,تجربه جيدة,5,قبل شهرين,مستشفى الزهيري,مستشفى,google_maps,exact_duplicate_same_business_rating_platform,1,1,False,False
+3091,تجربه جيدة,5,قبل شهرين,مستشفى الزهيري,مستشفى,google_maps,exact_duplicate_same_business_rating_platform,1,1,False,False
+3383,خدمه ممتازه,5,قبل 3 أسابيع,سمارت ماركت القاهرة الجديدة,متجر بقالة,google_maps,review_bomb_duplicate,12,1,False,False
+3445,ممتاز,5,قبل شهر,مطعم سيتي كريب الشيخ زايد_City Crepe,مطعم كريب,google_maps,review_bomb_duplicate,62,25,True,False
+3462,ممتاز,5,قبل شهر,حاتى الجيش,مطعم مأكولات مشوية,google_maps,review_bomb_duplicate,62,25,True,False
+3770,خدمه ممتازه,5,قبل 4 أشهر,المستشفى القبطي بالقاهرة,مستشفى خاصة,google_maps,review_bomb_duplicate,12,1,False,False
+3775,ممتاز,5,قبل 8 أشهر,المستشفى القبطي بالقاهرة,مستشفى خاصة,google_maps,review_bomb_duplicate,62,25,True,False
+3808,Very good,5,قبل 9 أشهر,حاتى أبو خالد,مطعم مأكولات مشوية,google_maps,review_bomb_duplicate,16,7,True,False
+3820,Makan helw awi w dr/huda helwa gedn,5,قبل شهر,Cairo Cosmo Center,عيادة جراحة التجميل,google_maps,arabizi_like,1,1,False,True
+3910,جيد,5,قبل سنة,مطعم فرح,مطعم أطباق اللحوم,google_maps,review_bomb_duplicate,55,22,True,False
+3933,ممتاز,5,قبل 4 أشهر,انديامو,مطعم بيتزا,google_maps,review_bomb_duplicate,62,25,True,False
+4021,جيد,3,قبل شهرين,سوبرماركت الخليل,سوبرماركت,google_maps,review_bomb_duplicate,55,22,True,False
+4028,ممتاز,5,قبل سنتين,سوبرماركت الخليل,سوبرماركت,google_maps,review_bomb_duplicate,62,25,True,False
+4029,ممتاز,5,تاريخ التعديل: قبل أسبوعين,فول زمان,مطعم فلافل,google_maps,review_bomb_duplicate,62,25,True,False
+4043,جيد,4,قبل 7 أشهر,سوبر ماركت القدس,متجر بقالة,google_maps,review_bomb_duplicate,55,22,True,False
+4078,جيد,4,قبل شهر,Galleria Mall,مركز تسوق,google_maps,review_bomb_duplicate,55,22,True,False
+4187,ممتاز,5,قبل 10 أشهر,H2O Gym & Spa,صالة رياضة,google_maps,review_bomb_duplicate,62,25,True,False
+4190,جميل,5,قبل سنة,H2O Gym & Spa,صالة رياضة,google_maps,review_bomb_duplicate,31,13,True,False
+4242,El makan clean awi w elnas henak zo2 gdn w ely 3mly 4a3ry kan shater bsra7a,5,قبل 3 أشهر,Dehya Beauty Salon ( New Cairo ),صالون تجميل,google_maps,arabizi_like,1,1,False,True
+4276,جميل,5,قبل 8 أشهر,Esplanade cafe restaurant,مطعم,google_maps,review_bomb_duplicate,31,13,True,False
+4281,To7faaa bgd,5,قبل أسبوعين,بيتزا و باستا سان مارينو القاهرة الجديدة,مطعم مأكولات إيطالية,google_maps,arabizi_like,1,1,False,True
+4306,ممتاز,5,قبل 5 أيام,بيتزا كينج باب اللوق,مطعم بيتزا,google_maps,review_bomb_duplicate,62,25,True,False
+4380,جيد,5,قبل 9 أشهر,مطعم زين الشام,مطعم مأكولات سورية,google_maps,review_bomb_duplicate,55,22,True,False
+4421,El hamam el ma8rby to7fa w farah shatra mooot,5,قبل 4 أشهر,MOSCOW COLORS BEAUTY LOUNGE & SPA,صالون تجميل,google_maps,arabizi_like,1,1,False,True
+4491,جيد,2,قبل شهرين,مطعم الشروق,مطعم فلافل,google_maps,review_bomb_duplicate,55,22,True,False
+4529,حلو,4,قبل شهرين,Beesho Supermarket,سوبرماركت,google_maps,review_bomb_duplicate,23,10,True,False
+4545,جيد,3,قبل 9 أشهر,سوبر ماركت هاى لايف,سوبرماركت,google_maps,review_bomb_duplicate,55,22,True,False
+4556,رائع,5,قبل 10 أشهر,مطعم الدمياطي فول وفلافل,مطعم فلافل,google_maps,review_bomb_duplicate,26,11,True,False
+4658,جيد,2,قبل سنة,مطعم حضرموت اكتوبر,مطعم أطباق اللحوم,google_maps,review_bomb_duplicate,55,22,True,False
+4725,ممتاز,5,قبل شهر,صيدليات مصر-فرع طلعت حرب,صيدلية,google_maps,review_bomb_duplicate,62,25,True,False
+4739,Good,5,قبل يومين (2),Platinum Clinics,عيادة متخصصة,google_maps,review_bomb_duplicate,28,12,True,False
+4857,ممتازة,5,قبل سنة,سوبر ماركت فود لاند Food Land,سوبرماركت,google_maps,exact_duplicate_same_business_rating_platform,12,1,False,False
+4884,ممتاز,5,قبل 4 أشهر,مستشفى مصر الجديدة التخصصي,مستشفى,google_maps,review_bomb_duplicate,62,25,True,False
+4907,رائع,5,قبل 5 أشهر,Edgefit Gym,صالة رياضة,google_maps,review_bomb_duplicate,26,11,True,False
+5034,جيد,3,قبل 4 أشهر,سوبر ماركت البركه,سوبرماركت,google_maps,review_bomb_duplicate,55,22,True,False
+5044,حلو,5,تاريخ التعديل: قبل شهر,Golden Zedan Gym,صالة رياضة,google_maps,review_bomb_duplicate,23,10,True,False
+5113,ممتاز,5,قبل سنة,papa cafe & resturant,مطعم,google_maps,review_bomb_duplicate,62,25,True,False
+5127,very good,3,قبل سنتين,papa cafe & resturant,مطعم,google_maps,review_bomb_duplicate,16,7,True,False
+5276,جميل,5,قبل سنة,Fathallah Sons Market,متجر بقالة,google_maps,review_bomb_duplicate,31,13,True,False
+5281,ممتاز,5,قبل 3 أشهر,صيدليات سيف,صيدلية,google_maps,review_bomb_duplicate,62,25,True,False
+5282,جيد,4,قبل 4 أشهر,صيدليات سيف,صيدلية,google_maps,review_bomb_duplicate,55,22,True,False
+5350,Very good,5,قبل 10 أشهر,مطعم الشامي للمأكولات السورية,مطعم مأكولات سورية,google_maps,review_bomb_duplicate,16,7,True,False
+5413,Good,3,قبل سنة,أسواق اكتوبر,متجر بقالة راقٍ,google_maps,review_bomb_duplicate,28,12,True,False
+5420,ممتاز,5,قبل 3 سنوات,أسواق اكتوبر,متجر بقالة راقٍ,google_maps,review_bomb_duplicate,62,25,True,False
+5537,شكرا,5,قبل شهرين,صيدليات دوس,صيدلية,google_maps,review_bomb_duplicate,10,1,False,False
+5548,جيد,3,قبل سنتين,Town Gym,صالة رياضة,google_maps,review_bomb_duplicate,55,22,True,False
+5555,خدمه ممتازه,5,تاريخ التعديل: قبل شهرين,Abdo pharmacy - صيدلية عبده,صيدلية,google_maps,review_bomb_duplicate,12,1,False,False
+5599,Good,4,تاريخ التعديل: قبل 3 سنوات,5amsina Cafe,مقهى,google_maps,review_bomb_duplicate,28,12,True,False
+5611,ممتاز,5,قبل 5 أشهر,صيدليات مصر - فرع التجمع الخامس,صيدلية,google_maps,review_bomb_duplicate,62,25,True,False
+5613,"خدمه
+ممتازه",5,قبل 7 أشهر,صيدليات مصر - فرع التجمع الخامس,صيدلية,google_maps,review_bomb_duplicate,12,1,False,False
+5628,رائع,5,قبل 8 أشهر,H2O GYM Zamalek,صالة رياضة,google_maps,review_bomb_duplicate,26,11,True,False
+5657,Good,1,قبل سنة,PUMP CLUB gym,صالة رياضة,google_maps,review_bomb_duplicate,28,12,True,False
+5723,جيد,3,قبل 3 سنوات,كايرو كلينك,عيادة الخصوبة,google_maps,review_bomb_duplicate,55,22,True,False
+5781,Good place,5,قبل سنتين,Egyptian muscle,صالة رياضة,google_maps,exact_duplicate_same_business_rating_platform,3,1,False,False
+5861,ممتاز جدا,5,قبل 3 سنوات,مستشفي المركز الطبي الإنجيلي بالقاهرة,مستشفى,google_maps,review_bomb_duplicate,22,9,True,False
+5903,"Thanks maro bgd mn a7sn el nas
+Nails bt3tk to7faaaa😍♥️♥️♥️♥️",5,قبل 10 أشهر,Beauty salon Glowing,صالون تجميل,google_maps,arabizi_like,1,1,False,True
+5972,جيد,5,قبل 4 سنوات,El Sawaf Supermarket,سوبرماركت,google_maps,review_bomb_duplicate,55,22,True,False
+6007,ممتاز,5,قبل سنتين,بيتزا ايطاليا,مطعم,google_maps,review_bomb_duplicate,62,25,True,False
+6015,Excellent,5,قبل سنة,مشويات سخسخ,مطعم مأكولات مشوية,google_maps,review_bomb_duplicate,10,4,True,False
+6050,كويس,1,قبل سنة,مطعم مشويات,مطعم مأكولات مشوية,google_maps,review_bomb_duplicate,16,7,True,False
+6057,ممتاز,5,قبل 4 سنوات,مطعم مشويات,مطعم مأكولات مشوية,google_maps,review_bomb_duplicate,62,25,True,False
+6068,جامد,5,قبل 3 سنوات,ابوظريفة فول وطعمية,مطعم فلافل,google_maps,review_bomb_duplicate,10,4,True,False
+6116,Good,3,قبل 4 سنوات,مطعم الفول والطعمية,مطعم,google_maps,review_bomb_duplicate,28,12,True,False
+6119,جميل,5,قبل 9 ساعات,Safir hotel cairo,فندق,google_maps,review_bomb_duplicate,31,13,True,False
+6138,ممتاز,5,قبل سنة,مشويات سعودي,مطعم مأكولات مشوية,google_maps,review_bomb_duplicate,62,25,True,False
+6171,Good,5,قبل 8 سنوات,صيدلية ولى العهد,صيدلية,google_maps,review_bomb_duplicate,28,12,True,False
+6175,ممتاز,5,قبل 4 سنوات,مطعم فول,مطعم فلافل,google_maps,review_bomb_duplicate,62,25,True,False
+6176,Good,5,قبل 4 سنوات,مطعم فول,مطعم فلافل,google_maps,review_bomb_duplicate,28,12,True,False
+6197,جيد,4,قبل 9 سنوات,صيدلية باب الخلق,صيدلية,google_maps,review_bomb_duplicate,55,22,True,False
+6231,جميل,5,2026-02-12,Elmenus,food_delivery,play_store,review_bomb_duplicate,31,13,True,False
+6245,ممتاز,5,2025-12-30,Elmenus,food_delivery,play_store,review_bomb_duplicate,62,25,True,False
+6261,ممتاز,5,2025-11-10,Elmenus,food_delivery,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+6267,كويس,5,2025-10-24,Elmenus,food_delivery,play_store,review_bomb_duplicate,16,7,True,False
+6272,ممتاز جدا جدا,5,2025-10-04,Elmenus,food_delivery,play_store,exact_duplicate_same_business_rating_platform,4,1,False,False
+6273,ممتاز,5,2025-10-03,Elmenus,food_delivery,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+6277,جيد,4,2025-09-26,Elmenus,food_delivery,play_store,review_bomb_duplicate,55,22,True,False
+6282,جميل جدا,5,2025-09-05,Elmenus,food_delivery,play_store,review_bomb_duplicate,15,6,True,False
+6291,ممتاز,5,2025-08-08,Elmenus,food_delivery,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+6300,ممتاز,5,2025-07-18,Elmenus,food_delivery,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+6301,ممتاز,5,2025-07-17,Elmenus,food_delivery,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+6302,وحش جدا,1,2025-07-17,Elmenus,food_delivery,play_store,exact_duplicate_same_business_rating_platform,2,1,False,False
+6314,ممتاز,5,2025-06-24,Elmenus,food_delivery,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+6321,ممتاز,5,2025-04-12,Elmenus,food_delivery,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+6323,رائع,5,2025-04-03,Elmenus,food_delivery,play_store,review_bomb_duplicate,26,11,True,False
+6325,ممتاز,5,2025-03-23,Elmenus,food_delivery,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+6337,ممتاز,5,2024-12-25,Elmenus,food_delivery,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+6349,حلو,5,2024-11-20,Elmenus,food_delivery,play_store,review_bomb_duplicate,23,10,True,False
+6350,جميل,5,2024-11-19,Elmenus,food_delivery,play_store,exact_duplicate_same_business_rating_platform,31,1,False,False
+6355,ممتاز,5,2024-11-08,Elmenus,food_delivery,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+6357,رائع,5,2024-11-03,Elmenus,food_delivery,play_store,exact_duplicate_same_business_rating_platform,26,1,False,False
+6362,جميل,5,2024-10-20,Elmenus,food_delivery,play_store,exact_duplicate_same_business_rating_platform,31,1,False,False
+6391,حلو,5,2024-07-05,Elmenus,food_delivery,play_store,exact_duplicate_same_business_rating_platform,23,1,False,False
+6396,ممتاز,5,2024-07-01,Elmenus,food_delivery,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+6402,جيد,5,2024-06-06,Elmenus,food_delivery,play_store,review_bomb_duplicate,55,22,True,False
+6407,رائع,5,2024-05-26,Elmenus,food_delivery,play_store,exact_duplicate_same_business_rating_platform,26,1,False,False
+6414,جميل جدا,5,2024-04-15,Elmenus,food_delivery,play_store,exact_duplicate_same_business_rating_platform,15,1,False,False
+6444,جميل جدا,5,2024-01-06,Elmenus,food_delivery,play_store,exact_duplicate_same_business_rating_platform,15,1,False,False
+6453,جيد,5,2023-12-23,Elmenus,food_delivery,play_store,exact_duplicate_same_business_rating_platform,55,1,False,False
+6468,حلو,5,2023-11-27,Elmenus,food_delivery,play_store,exact_duplicate_same_business_rating_platform,23,1,False,False
+6479,ممتاز,1,2023-11-04,Elmenus,food_delivery,play_store,review_bomb_duplicate,62,25,True,False
+6488,تطبيق سئ جداً,1,2023-10-14,Elmenus,food_delivery,play_store,exact_duplicate_same_business_rating_platform,2,1,False,False
+6499,رائع,5,2023-09-23,Elmenus,food_delivery,play_store,exact_duplicate_same_business_rating_platform,26,1,False,False
+6503,رائع,5,2023-09-16,Elmenus,food_delivery,play_store,exact_duplicate_same_business_rating_platform,26,1,False,False
+6532,ممتاز,5,2026-03-10,Careem,transport,play_store,review_bomb_duplicate,62,25,True,False
+6547,ممتاز,5,2026-03-07,Careem,transport,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+6553,ممتاز,5,2026-03-05,Careem,transport,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+6559,جيد,2,2026-03-02,Careem,transport,play_store,review_bomb_duplicate,55,22,True,False
+6585,ممتاز,5,2026-02-26,Careem,transport,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+6596,ممتاز,5,2026-02-24,Careem,transport,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+6602,ممتاز,5,2026-02-24,Careem,transport,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+6628,ممتاز,5,2026-02-20,Careem,transport,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+6631,ممتاز,3,2026-02-18,Careem,transport,play_store,review_bomb_duplicate,62,25,True,False
+6643,كويس,5,2026-02-16,Careem,transport,play_store,review_bomb_duplicate,16,7,True,False
+6667,جيد,5,2026-02-12,Careem,transport,play_store,review_bomb_duplicate,55,22,True,False
+6668,ممتاز,5,2026-02-11,Careem,transport,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+6678,جيد,5,2026-02-10,Careem,transport,play_store,exact_duplicate_same_business_rating_platform,55,1,False,False
+6694,ممتاز,5,2026-02-07,Careem,transport,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+6698,ممتاز,5,2026-02-06,Careem,transport,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+6701,جيد جدا,5,2026-02-06,Careem,transport,play_store,review_bomb_duplicate,21,9,True,False
+6704,ممتازة,5,2026-02-06,Careem,transport,play_store,exact_duplicate_same_business_rating_platform,12,1,False,False
+6707,شكرا,5,2026-02-06,Careem,transport,play_store,review_bomb_duplicate,10,1,False,False
+6712,ممتازه,5,2026-02-05,Careem,transport,play_store,exact_duplicate_same_business_rating_platform,10,1,False,False
+6718,ممتاز,5,2026-02-05,Careem,transport,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+6724,ممتاز,5,2026-02-05,Careem,transport,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+6738,جيد,3,2026-02-03,Careem,transport,play_store,review_bomb_duplicate,55,22,True,False
+6744,ممتاز,5,2026-02-02,Careem,transport,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+6748,ممتاز,5,2026-02-02,Careem,transport,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+6750,جيد,4,2026-02-01,Careem,transport,play_store,review_bomb_duplicate,55,22,True,False
+6756,جيد,5,2026-01-31,Careem,transport,play_store,exact_duplicate_same_business_rating_platform,55,1,False,False
+6761,رائع,5,2026-01-31,Careem,transport,play_store,review_bomb_duplicate,26,11,True,False
+6766,ممتاز,5,2026-01-30,Careem,transport,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+6768,ممتاز,5,2026-01-29,Careem,transport,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+6770,ممتاز,5,2026-01-29,Careem,transport,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+6786,جيد,5,2026-01-27,Careem,transport,play_store,exact_duplicate_same_business_rating_platform,55,1,False,False
+6787,ممتاز جدا,5,2026-01-27,Careem,transport,play_store,review_bomb_duplicate,22,9,True,False
+6790,جيد جدا,5,2026-01-27,Careem,transport,play_store,exact_duplicate_same_business_rating_platform,21,1,False,False
+6796,جيد جدا,5,2026-01-26,Careem,transport,play_store,exact_duplicate_same_business_rating_platform,21,1,False,False
+6802,جميل,5,2026-01-25,Careem,transport,play_store,review_bomb_duplicate,31,13,True,False
+6807,جيد,5,2026-03-14,Uber,transport,play_store,review_bomb_duplicate,55,22,True,False
+6809,ممتاز,5,2026-03-14,Uber,transport,play_store,review_bomb_duplicate,62,25,True,False
+6810,جميل,5,2026-03-14,Uber,transport,play_store,review_bomb_duplicate,31,13,True,False
+6816,ممتاز جدا,5,2026-03-13,Uber,transport,play_store,review_bomb_duplicate,22,9,True,False
+6818,ممتاز,5,2026-03-13,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+6820,ممتاز جدا,5,2026-03-13,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,22,1,False,False
+6822,ممتاز,5,2026-03-13,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+6826,شكرا,5,2026-03-13,Uber,transport,play_store,review_bomb_duplicate,10,1,False,False
+6829,جيد جدا,5,2026-03-13,Uber,transport,play_store,review_bomb_duplicate,21,9,True,False
+6830,جيدة جدا,5,2026-03-13,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,3,1,False,False
+6831,جميل,5,2026-03-13,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,31,1,False,False
+6833,جميل جدا,5,2026-03-13,Uber,transport,play_store,review_bomb_duplicate,15,6,True,False
+6843,ممتازه,5,2026-03-13,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,10,1,False,False
+6844,حلو,5,2026-03-13,Uber,transport,play_store,review_bomb_duplicate,23,10,True,False
+6845,ممتاز جدا,5,2026-03-13,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,22,1,False,False
+6856,ممتاز,5,2026-03-12,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+6860,جيد جداً,5,2026-03-12,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,21,1,False,False
+6863,ممتازه,5,2026-03-12,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,10,1,False,False
+6865,ممتاز,5,2026-03-12,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+6866,ممتازة,5,2026-03-12,Uber,transport,play_store,review_bomb_duplicate,12,5,True,False
+6868,ممتاز,5,2026-03-12,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+6872,جميل,5,2026-03-12,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,31,1,False,False
+6873,ممتازه,5,2026-03-12,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,10,1,False,False
+6877,ممتاز جدا,5,2026-03-12,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,22,1,False,False
+6878,جميل,5,2026-03-12,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,31,1,False,False
+6879,ممتاز جدا,5,2026-03-12,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,22,1,False,False
+6881,حلو,5,2026-03-12,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,23,1,False,False
+6885,ممتازه,5,2026-03-12,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,10,1,False,False
+6887,رائع,5,2026-03-11,Uber,transport,play_store,review_bomb_duplicate,26,11,True,False
+6893,جيد جدا,5,2026-03-11,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,21,1,False,False
+6897,جيد,5,2026-03-11,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,55,1,False,False
+6904,ممتاز,5,2026-03-11,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+6908,ممتاز,5,2026-03-11,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+6911,حلو,5,2026-03-11,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,23,1,False,False
+6912,جميل جدا,5,2026-03-11,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,15,1,False,False
+6915,ممتاز,5,2026-03-11,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+6919,ممتازه,5,2026-03-11,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,10,1,False,False
+6921,ممتاز,5,2026-03-11,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+6923,جميل جدا,5,2026-03-10,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,15,1,False,False
+6927,جميله,5,2026-03-10,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,6,1,False,False
+6932,جيد,5,2026-03-10,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,55,1,False,False
+6936,ممتاز جداً,1,2026-03-10,Uber,transport,play_store,review_bomb_duplicate,22,9,True,False
+6937,ممتاز,5,2026-03-10,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+6938,خدمه ممتازه,5,2026-03-10,Uber,transport,play_store,review_bomb_duplicate,12,1,False,False
+6944,ممتاز,5,2026-03-10,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+6947,ممتاز,5,2026-03-10,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+6949,جيد,5,2026-03-10,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,55,1,False,False
+6950,جيده,5,2026-03-10,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,8,1,False,False
+6953,جيد جدا,5,2026-03-10,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,21,1,False,False
+6954,ممتاز,5,2026-03-10,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+6957,رائع,5,2026-03-10,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,26,1,False,False
+6962,ممتازه,5,2026-03-10,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,10,1,False,False
+6964,ممتاز,5,2026-03-10,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+6965,جميل جدا,4,2026-03-10,Uber,transport,play_store,review_bomb_duplicate,15,6,True,False
+6967,ممتازه,1,2026-03-10,Uber,transport,play_store,review_bomb_duplicate,10,4,True,False
+6968,جيد جداً,5,2026-03-10,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,21,1,False,False
+6971,ممتازه,5,2026-03-09,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,10,1,False,False
+6975,جميل,5,2026-03-09,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,31,1,False,False
+6977,ممتاز,5,2026-03-09,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+6978,جيد جدا,5,2026-03-09,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,21,1,False,False
+6981,ممتاز,5,2026-03-09,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+6988,ممتازه,5,2026-03-09,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,10,1,False,False
+6989,ممتاز,5,2026-03-09,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+6991,ممتازة,5,2026-03-09,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,12,1,False,False
+6997,ممتازه,5,2026-03-09,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,10,1,False,False
+7008,ممتاز,5,2026-03-09,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7009,ممتاز,5,2026-03-09,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7010,ممتاز,5,2026-03-09,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7012,ممتازه,5,2026-03-09,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,10,1,False,False
+7015,رائع,5,2026-03-09,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,26,1,False,False
+7016,ممتازة,5,2026-03-09,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,12,1,False,False
+7021,رائع,5,2026-03-09,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,26,1,False,False
+7022,ممتاز,5,2026-03-09,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7023,رائع,5,2026-03-09,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,26,1,False,False
+7029,ممتاز جدا,5,2026-03-08,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,22,1,False,False
+7030,ممتاز,5,2026-03-08,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7032,ممتاز,5,2026-03-08,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7034,ممتاز,5,2026-03-08,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7040,ممتازه,5,2026-03-08,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,10,1,False,False
+7044,ممتاز جدا,5,2026-03-08,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,22,1,False,False
+7045,ممتاز,5,2026-03-08,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7046,جميل,5,2026-03-08,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,31,1,False,False
+7052,جيدة,5,2026-03-08,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,8,1,False,False
+7054,شكرا,5,2026-03-08,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,10,1,False,False
+7055,ممتاز,5,2026-03-08,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7058,ممتازة,5,2026-03-08,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,12,1,False,False
+7059,ممتازة,5,2026-03-08,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,12,1,False,False
+7063,كويس,5,2026-03-08,Uber,transport,play_store,review_bomb_duplicate,16,7,True,False
+7070,جيده,5,2026-03-08,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,8,1,False,False
+7071,ممتاز,5,2026-03-08,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7074,حلوه,5,2026-03-07,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,4,1,False,False
+7076,ممتازة,5,2026-03-07,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,12,1,False,False
+7081,ممتازة,5,2026-03-07,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,12,1,False,False
+7083,ممتازة,5,2026-03-07,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,12,1,False,False
+7084,ممتازة,5,2026-03-07,Uber,transport,play_store,exact_duplicate_same_business_rating_platform,12,1,False,False
+7093,جيد جدا,5,2026-03-13,Noon,ecommerce,play_store,review_bomb_duplicate,21,9,True,False
+7097,ممتاز,5,2026-03-13,Noon,ecommerce,play_store,review_bomb_duplicate,62,25,True,False
+7101,جميل,5,2026-03-13,Noon,ecommerce,play_store,review_bomb_duplicate,31,13,True,False
+7105,ممتاز,5,2026-03-13,Noon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7113,ممتاز,5,2026-03-12,Noon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7119,جميل,5,2026-03-12,Noon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,31,1,False,False
+7123,ممتاز,4,2026-03-12,Noon,ecommerce,play_store,review_bomb_duplicate,62,25,True,False
+7131,ممتاز,5,2026-03-12,Noon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7137,جيد,5,2026-03-11,Noon,ecommerce,play_store,review_bomb_duplicate,55,22,True,False
+7146,ممتاز جدا,5,2026-03-11,Noon,ecommerce,play_store,review_bomb_duplicate,22,9,True,False
+7152,ممتاز,5,2026-03-11,Noon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7154,رائع,5,2026-03-11,Noon,ecommerce,play_store,review_bomb_duplicate,26,11,True,False
+7155,جامد,5,2026-03-11,Noon,ecommerce,play_store,review_bomb_duplicate,10,4,True,False
+7157,جيد,5,2026-03-11,Noon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,55,1,False,False
+7160,ممتاز,5,2026-03-10,Noon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7167,جيد جدا,5,2026-03-10,Noon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,21,1,False,False
+7171,ممتاز,5,2026-03-10,Noon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7172,ممتاز,5,2026-03-10,Noon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7175,جيد,5,2026-03-10,Noon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,55,1,False,False
+7176,ممتاز جدا,5,2026-03-10,Noon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,22,1,False,False
+7177,رائع,5,2026-03-10,Noon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,26,1,False,False
+7178,جيد,5,2026-03-10,Noon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,55,1,False,False
+7179,ممتاز,5,2026-03-10,Noon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7188,ممتاز,5,2026-03-10,Noon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7189,ممتاز,5,2026-03-09,Noon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7198,ممتاز,5,2026-03-09,Noon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7202,شكرا,5,2026-03-09,Noon,ecommerce,play_store,review_bomb_duplicate,10,1,False,False
+7205,ممتاز,5,2026-03-09,Noon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7207,شكرا,5,2026-03-09,Noon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,10,1,False,False
+7212,ممتاز,5,2026-03-09,Noon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7218,جميل,5,2026-03-09,Noon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,31,1,False,False
+7222,ممتاز,5,2026-03-09,Noon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7224,ممتاز,5,2026-03-09,Noon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7225,ممتاز,5,2026-03-09,Noon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7226,ممتاز,5,2026-03-09,Noon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7227,ممتاز,5,2026-03-08,Noon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7230,شكرا,5,2026-03-08,Noon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,10,1,False,False
+7232,رائع,5,2026-03-08,Noon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,26,1,False,False
+7235,جيد جدا,5,2026-03-08,Noon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,21,1,False,False
+7236,ممتاز,5,2026-03-08,Noon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7243,ممتاز,5,2026-03-08,Noon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7250,ممتاز,5,2026-03-08,Noon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7252,ممتاز,5,2026-03-08,Noon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7254,ممتاز جدا,5,2026-03-08,Noon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,22,1,False,False
+7261,جيد,5,2026-03-07,Noon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,55,1,False,False
+7263,شكرا,5,2026-03-07,Noon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,10,1,False,False
+7267,جميل جدا,5,2026-03-07,Noon,ecommerce,play_store,review_bomb_duplicate,15,6,True,False
+7271,حلو,5,2026-03-07,Noon,ecommerce,play_store,review_bomb_duplicate,23,10,True,False
+7273,ممتاز,5,2026-03-07,Noon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7274,ممتاز,5,2026-03-07,Noon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7275,جيد,5,2026-03-07,Noon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,55,1,False,False
+7278,ممتاز,5,2026-03-07,Noon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7282,رائع,5,2026-03-07,Noon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,26,1,False,False
+7283,ممتاز,5,2026-03-07,Noon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7284,ممتاز,5,2026-03-07,Noon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7287,جيد,5,2026-03-07,Noon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,55,1,False,False
+7290,ممتاز,5,2026-03-06,Noon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7296,ممتاز,5,2026-03-06,Noon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7305,جيد جدا,5,2026-03-06,Noon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,21,1,False,False
+7308,ممتاز,5,2026-03-06,Noon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7316,جميل,2,2026-03-06,Noon,ecommerce,play_store,review_bomb_duplicate,31,13,True,False
+7321,ممتاز,5,2026-03-06,Noon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7322,جيد,5,2026-03-06,Noon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,55,1,False,False
+7326,شكراً,4,2026-03-06,Noon,ecommerce,play_store,review_bomb_duplicate,10,1,False,False
+7327,ممتاز,5,2026-03-06,Noon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7332,جيد,5,2026-03-06,Noon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,55,1,False,False
+7339,تمام,5,2026-03-05,Noon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,13,1,False,False
+7341,ممتاز,4,2026-03-05,Noon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7342,ممتاز,5,2026-03-05,Noon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7343,شكرا نون,5,2026-03-05,Noon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,1,1,False,False
+7357,شكرا نون,5,2026-03-05,Noon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,1,1,False,False
+7364,جميل جدا,5,2026-03-05,Noon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,15,1,False,False
+7366,ممتاز,5,2026-03-04,Noon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7369,تطبيق رائع,5,2026-03-04,Noon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,6,1,False,False
+7370,ممتاز,5,2026-03-04,Noon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7381,جيد جدا,5,2026-03-11,Jumia,ecommerce,play_store,review_bomb_duplicate,21,9,True,False
+7388,ممتاز,5,2026-03-09,Jumia,ecommerce,play_store,review_bomb_duplicate,62,25,True,False
+7389,جيد جدا,5,2026-03-09,Jumia,ecommerce,play_store,exact_duplicate_same_business_rating_platform,21,1,False,False
+7390,ممتاز,5,2026-03-09,Jumia,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7391,جيد جدا,5,2026-03-09,Jumia,ecommerce,play_store,exact_duplicate_same_business_rating_platform,21,1,False,False
+7399,ممتاز,5,2026-03-06,Jumia,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7403,ممتاز,5,2026-03-05,Jumia,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7407,جيد,5,2026-03-03,Jumia,ecommerce,play_store,review_bomb_duplicate,55,22,True,False
+7408,ممتاز,5,2026-03-03,Jumia,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7409,رائع,5,2026-03-03,Jumia,ecommerce,play_store,review_bomb_duplicate,26,11,True,False
+7413,جميل,4,2026-03-02,Jumia,ecommerce,play_store,review_bomb_duplicate,31,13,True,False
+7415,ممتاز,5,2026-02-28,Jumia,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7419,ممتاز,5,2026-02-27,Jumia,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7420,ممتاز,5,2026-02-27,Jumia,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7423,جيد جدا,5,2026-02-25,Jumia,ecommerce,play_store,exact_duplicate_same_business_rating_platform,21,1,False,False
+7429,جيد,4,2026-02-24,Jumia,ecommerce,play_store,review_bomb_duplicate,55,22,True,False
+7430,ممتاز,5,2026-02-23,Jumia,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7435,شكرا,5,2026-02-22,Jumia,ecommerce,play_store,review_bomb_duplicate,10,1,False,False
+7440,تمام,1,2026-02-19,Jumia,ecommerce,play_store,review_bomb_duplicate,13,6,True,False
+7443,ممتاز,5,2026-02-19,Jumia,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7444,ممتاز,5,2026-02-18,Jumia,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7446,جميل جداً,5,2026-02-17,Jumia,ecommerce,play_store,review_bomb_duplicate,15,6,True,False
+7451,تمام,5,2026-02-16,Jumia,ecommerce,play_store,review_bomb_duplicate,13,6,True,False
+7463,ممتاز,5,2026-02-13,Jumia,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7466,ممتاز,5,2026-02-13,Jumia,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7468,جيد جدا,5,2026-02-13,Jumia,ecommerce,play_store,exact_duplicate_same_business_rating_platform,21,1,False,False
+7476,ممتاز,4,2026-02-09,Jumia,ecommerce,play_store,review_bomb_duplicate,62,25,True,False
+7478,جميل,5,2026-02-08,Jumia,ecommerce,play_store,review_bomb_duplicate,31,13,True,False
+7479,خدمه ممتازه,5,2026-02-07,Jumia,ecommerce,play_store,review_bomb_duplicate,12,1,False,False
+7480,ممتاز,5,2026-02-06,Jumia,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7484,ممتاز,5,2026-02-06,Jumia,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7486,خدمه ممتازه,5,2026-02-06,Jumia,ecommerce,play_store,exact_duplicate_same_business_rating_platform,12,1,False,False
+7487,جميل,5,2026-02-06,Jumia,ecommerce,play_store,exact_duplicate_same_business_rating_platform,31,1,False,False
+7488,جيد,5,2026-02-06,Jumia,ecommerce,play_store,exact_duplicate_same_business_rating_platform,55,1,False,False
+7497,ممتاز,5,2026-02-04,Jumia,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7501,ممتاز,5,2026-02-03,Jumia,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7506,ممتاز,5,2026-02-01,Jumia,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7508,ممتاز,5,2026-01-31,Jumia,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7516,ممتاز,5,2026-01-26,Jumia,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7517,تطبيق ممتاز جدا,5,2026-01-26,Jumia,ecommerce,play_store,exact_duplicate_same_business_rating_platform,3,1,False,False
+7520,ممتاز,5,2026-01-25,Jumia,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7538,جيد,4,2026-01-20,Jumia,ecommerce,play_store,exact_duplicate_same_business_rating_platform,55,1,False,False
+7542,ممتاز,5,2026-01-20,Jumia,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7544,ممتاز,5,2026-01-19,Jumia,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7546,ممتاز,5,2026-01-18,Jumia,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7549,حلو,5,2026-01-17,Jumia,ecommerce,play_store,review_bomb_duplicate,23,10,True,False
+7558,ممتاز,5,2026-01-13,Jumia,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7559,جميل جداً,5,2026-01-12,Jumia,ecommerce,play_store,exact_duplicate_same_business_rating_platform,15,1,False,False
+7560,جميل جداً,5,2026-01-12,Jumia,ecommerce,play_store,exact_duplicate_same_business_rating_platform,15,1,False,False
+7562,ممتاز جدا,5,2026-01-10,Jumia,ecommerce,play_store,review_bomb_duplicate,22,9,True,False
+7573,ممتاز,5,2026-01-04,Jumia,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7575,ممتاز,5,2026-01-03,Jumia,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7579,تمام,5,2026-01-01,Jumia,ecommerce,play_store,exact_duplicate_same_business_rating_platform,13,1,False,False
+7581,ممتاز,5,2025-12-31,Jumia,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7591,حلو.....,3,2025-12-27,Jumia,ecommerce,play_store,review_bomb_duplicate,23,10,True,False
+7594,تحت التجربه,5,2025-12-27,Jumia,ecommerce,play_store,exact_duplicate_same_business_rating_platform,5,1,False,False
+7596,سيء,1,2025-12-25,Jumia,ecommerce,play_store,exact_duplicate_same_business_rating_platform,4,1,False,False
+7597,ممتاز,5,2025-12-25,Jumia,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7604,جميل جدا,5,2025-12-22,Jumia,ecommerce,play_store,exact_duplicate_same_business_rating_platform,15,1,False,False
+7611,تمام,5,2025-12-20,Jumia,ecommerce,play_store,exact_duplicate_same_business_rating_platform,13,1,False,False
+7620,ممتاز,5,2025-12-14,Jumia,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7628,ممتاز,5,2025-12-09,Jumia,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7629,تمام,5,2025-12-08,Jumia,ecommerce,play_store,exact_duplicate_same_business_rating_platform,13,1,False,False
+7632,ممتاز,5,2025-12-08,Jumia,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7639,ممتاز,5,2025-12-06,Jumia,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7643,ممتاز,5,2025-12-05,Jumia,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7647,ممتاز,5,2025-12-02,Jumia,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7648,جميل,5,2025-12-02,Jumia,ecommerce,play_store,exact_duplicate_same_business_rating_platform,31,1,False,False
+7652,ممتازه,5,2026-03-13,Amazon,ecommerce,play_store,review_bomb_duplicate,10,4,True,False
+7654,ممتاز,5,2026-03-13,Amazon,ecommerce,play_store,review_bomb_duplicate,62,25,True,False
+7655,جيد جدا,5,2026-03-13,Amazon,ecommerce,play_store,review_bomb_duplicate,21,9,True,False
+7662,ممتازة,5,2026-03-13,Amazon,ecommerce,play_store,review_bomb_duplicate,12,5,True,False
+7668,جميل,5,2026-03-13,Amazon,ecommerce,play_store,review_bomb_duplicate,31,13,True,False
+7675,جميل جدا,5,2026-03-12,Amazon,ecommerce,play_store,review_bomb_duplicate,15,6,True,False
+7685,جيد,5,2026-03-11,Amazon,ecommerce,play_store,review_bomb_duplicate,55,22,True,False
+7701,ممتاز,5,2026-03-11,Amazon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7706,ممتاز,5,2026-03-10,Amazon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7709,ممتاز جدا,5,2026-03-10,Amazon,ecommerce,play_store,review_bomb_duplicate,22,9,True,False
+7723,جيد جدا,5,2026-03-09,Amazon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,21,1,False,False
+7726,ممتاز جدا,5,2026-03-09,Amazon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,22,1,False,False
+7728,جيد,3,2026-03-09,Amazon,ecommerce,play_store,review_bomb_duplicate,55,22,True,False
+7729,ممتاز جدا,5,2026-03-09,Amazon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,22,1,False,False
+7730,جميل,5,2026-03-09,Amazon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,31,1,False,False
+7739,كويس,5,2026-03-08,Amazon,ecommerce,play_store,review_bomb_duplicate,16,7,True,False
+7743,ممتاز جدا,5,2026-03-08,Amazon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,22,1,False,False
+7744,ممتاز,5,2026-03-08,Amazon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7745,جيد,5,2026-03-08,Amazon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,55,1,False,False
+7751,ممتاز جدا,5,2026-03-07,Amazon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,22,1,False,False
+7756,ممتاز,5,2026-03-07,Amazon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7760,ممتاز,3,2026-03-06,Amazon,ecommerce,play_store,review_bomb_duplicate,62,25,True,False
+7765,جيد,5,2026-03-06,Amazon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,55,1,False,False
+7766,ممتاز,5,2026-03-06,Amazon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7767,جيد,5,2026-03-06,Amazon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,55,1,False,False
+7773,ممتاز,5,2026-03-05,Amazon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7780,جميل جدا,5,2026-03-05,Amazon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,15,1,False,False
+7782,ممتاز,5,2026-03-04,Amazon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7783,ممتاز,5,2026-03-04,Amazon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7803,جميل جدا,5,2026-03-03,Amazon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,15,1,False,False
+7804,ممتاز,5,2026-03-03,Amazon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7809,ممتاز,5,2026-03-03,Amazon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7815,ممتاز,5,2026-03-02,Amazon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7822,ممتاز,5,2026-03-01,Amazon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7824,جميل,4,2026-03-01,Amazon,ecommerce,play_store,review_bomb_duplicate,31,13,True,False
+7826,جيد,5,2026-03-01,Amazon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,55,1,False,False
+7832,ممتاز,5,2026-03-01,Amazon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7833,حلو,5,2026-03-01,Amazon,ecommerce,play_store,review_bomb_duplicate,23,10,True,False
+7835,جيد,5,2026-03-01,Amazon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,55,1,False,False
+7837,جيد,5,2026-02-28,Amazon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,55,1,False,False
+7838,ممتاز,5,2026-02-28,Amazon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7842,ممتازه,5,2026-02-28,Amazon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,10,1,False,False
+7848,رائع,5,2026-02-27,Amazon,ecommerce,play_store,review_bomb_duplicate,26,11,True,False
+7851,ممتاز,5,2026-02-27,Amazon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7855,ممتاز,5,2026-02-26,Amazon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7869,جامد,5,2026-02-25,Amazon,ecommerce,play_store,review_bomb_duplicate,10,4,True,False
+7877,رائع,4,2026-02-24,Amazon,ecommerce,play_store,review_bomb_duplicate,26,11,True,False
+7878,ممتاز,5,2026-02-24,Amazon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7886,ممتاز,5,2026-02-23,Amazon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7890,ممتاز,5,2026-02-23,Amazon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7899,ممتاز,5,2026-02-22,Amazon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7900,ممتاز,5,2026-02-22,Amazon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7910,جيد,4,2026-02-20,Amazon,ecommerce,play_store,review_bomb_duplicate,55,22,True,False
+7920,ممتاز جداً,5,2026-02-19,Amazon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,22,1,False,False
+7927,ممتاز,5,2026-02-19,Amazon,ecommerce,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+7932,جيد جدا,2,2026-02-18,Amazon,ecommerce,play_store,review_bomb_duplicate,21,9,True,False
+7945,جيد,1,2026-01-20,Shop,ecommerce,play_store,review_bomb_duplicate,55,22,True,False
+7946,ممتاز جدا,5,2026-01-09,Shop,ecommerce,play_store,review_bomb_duplicate,22,9,True,False
+7947,very good,5,2026-01-09,Shop,ecommerce,play_store,review_bomb_duplicate,16,7,True,False
+7952,Very good,5,2026-01-01,Shop,ecommerce,play_store,exact_duplicate_same_business_rating_platform,16,1,False,False
+7971,ممتاز,5,2025-08-05,Shop,ecommerce,play_store,review_bomb_duplicate,62,25,True,False
+7981,حلو,5,2025-05-21,Shop,ecommerce,play_store,review_bomb_duplicate,23,10,True,False
+7990,suiiiiiiiiiiiiii,5,2024-11-28,Shop,ecommerce,play_store,gibberish_like,0,1,False,False
+8068,جيد جدا,5,2022-11-08,Shop,ecommerce,play_store,review_bomb_duplicate,21,9,True,False
+8094,good,5,2021-09-23,Shop,ecommerce,play_store,review_bomb_duplicate,28,12,True,False
+8106,Excellent,5,2021-04-23,Shop,ecommerce,play_store,review_bomb_duplicate,10,4,True,False
+8107,Good,3,2021-04-14,Shop,ecommerce,play_store,review_bomb_duplicate,28,12,True,False
+8133,حلو,5,2016-03-11,OLX,ecommerce,play_store,review_bomb_duplicate,23,10,True,False
+8139,Good,5,2015-10-21,OLX,ecommerce,play_store,review_bomb_duplicate,28,12,True,False
+8145,رؤعةة رؤعةة رؤعةة رؤعةة رؤعةة رؤعةة رؤعةة رؤعةة رؤعةة رؤعةة رؤعةة رؤعةة,5,2015-10-12,OLX,ecommerce,play_store,gibberish_like,0,1,False,False
+8161,ممتاز,5,2015-05-07,OLX,ecommerce,play_store,review_bomb_duplicate,62,25,True,False
+8165,جيد,2,2015-05-03,OLX,ecommerce,play_store,review_bomb_duplicate,55,22,True,False
+8169,جميل,4,2015-04-25,OLX,ecommerce,play_store,review_bomb_duplicate,31,13,True,False
+8188,Wooooooooooooo,5,2014-12-09,OLX,ecommerce,play_store,gibberish_like,0,1,False,False
+8192,Very good,5,2014-10-31,OLX,ecommerce,play_store,review_bomb_duplicate,16,7,True,False
+8209,Excellent,5,2014-05-17,OLX,ecommerce,play_store,review_bomb_duplicate,10,4,True,False
+8237,جميل,5,2025-11-25,Aqarmap,real_estate,play_store,review_bomb_duplicate,31,13,True,False
+8238,جيد جدا,4,2025-11-24,Aqarmap,real_estate,play_store,review_bomb_duplicate,21,9,True,False
+8253,ممتاز,5,2025-07-17,Aqarmap,real_estate,play_store,review_bomb_duplicate,62,25,True,False
+8303,ممتاز جدا,5,2024-12-17,Aqarmap,real_estate,play_store,review_bomb_duplicate,22,9,True,False
+8317,جيد,4,2024-12-16,Aqarmap,real_estate,play_store,review_bomb_duplicate,55,22,True,False
+8331,ممتازة,3,2024-08-05,Aqarmap,real_estate,play_store,review_bomb_duplicate,12,5,True,False
+8338,رائع,4,2024-06-12,Aqarmap,real_estate,play_store,review_bomb_duplicate,26,11,True,False
+8389,تمام,5,2023-12-16,Aqarmap,real_estate,play_store,review_bomb_duplicate,13,6,True,False
+8414,Good,5,2023-07-06,Aqarmap,real_estate,play_store,review_bomb_duplicate,28,12,True,False
+8454,كويس,5,2022-10-21,Aqarmap,real_estate,play_store,review_bomb_duplicate,16,7,True,False
+8488,Very good,4,2022-06-07,Aqarmap,real_estate,play_store,review_bomb_duplicate,16,7,True,False
+8534,ممتاز *****,5,2021-12-03,Aqarmap,real_estate,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+8563,good,3,2021-06-17,Aqarmap,real_estate,play_store,review_bomb_duplicate,28,12,True,False
+8599,خدمه ممتازه,5,2021-01-18,Aqarmap,real_estate,play_store,review_bomb_duplicate,12,1,False,False
+8602,ممتازه,5,2021-01-08,Aqarmap,real_estate,play_store,review_bomb_duplicate,10,4,True,False
+8603,ممتاز ⭐⭐⭐⭐,5,2021-01-07,Aqarmap,real_estate,play_store,exact_duplicate_same_business_rating_platform,62,1,False,False
+8616,ممتاز جداً,5,2020-09-20,Aqarmap,real_estate,play_store,exact_duplicate_same_business_rating_platform,22,1,False,False
+8621,جامد,5,2026-03-13,Anghami,entertainment,play_store,review_bomb_duplicate,10,4,True,False
+8629,ممتاز,5,2026-03-12,Anghami,entertainment,play_store,review_bomb_duplicate,62,25,True,False
+8631,تمام,5,2026-03-12,Anghami,entertainment,play_store,review_bomb_duplicate,13,6,True,False
+8650,جيد جدا,5,2026-03-08,Anghami,entertainment,play_store,review_bomb_duplicate,21,9,True,False
+8652,ممتازة,5,2026-03-08,Anghami,entertainment,play_store,review_bomb_duplicate,12,5,True,False
+8656,جميل جدا,5,2026-03-07,Anghami,entertainment,play_store,review_bomb_duplicate,15,6,True,False
+8660,excellent,5,2026-03-07,Anghami,entertainment,play_store,review_bomb_duplicate,10,4,True,False
+8677,good,5,2026-03-03,Anghami,entertainment,play_store,review_bomb_duplicate,28,12,True,False
+8697,رائع,5,2026-02-27,Anghami,entertainment,play_store,review_bomb_duplicate,26,11,True,False
+8715,very good,5,2026-02-23,Anghami,entertainment,play_store,review_bomb_duplicate,16,7,True,False
+8726,جميل جداً,5,2026-02-21,Anghami,entertainment,play_store,exact_duplicate_same_business_rating_platform,15,1,False,False
+8728,شكرا,5,2026-02-21,Anghami,entertainment,play_store,review_bomb_duplicate,10,1,False,False
+8772,ممتاز جدا,5,2026-02-09,Anghami,entertainment,play_store,review_bomb_duplicate,22,9,True,False
+8775,جيد,5,2026-02-08,Anghami,entertainment,play_store,review_bomb_duplicate,55,22,True,False
+8790,حلو,5,2026-02-06,Anghami,entertainment,play_store,review_bomb_duplicate,23,10,True,False
+8802,جيد جداً,5,2026-02-04,Anghami,entertainment,play_store,exact_duplicate_same_business_rating_platform,21,1,False,False
+8832,Good,5,2026-01-30,Anghami,entertainment,play_store,exact_duplicate_same_business_rating_platform,28,1,False,False
+8895,ممتازه,5,2026-01-19,Anghami,entertainment,play_store,review_bomb_duplicate,10,4,True,False
+8967,Perfect,5,2026-01-07,Anghami,entertainment,play_store,exact_duplicate_same_business_rating_platform,4,1,False,False
+8988,ممتاز جدا,5,2026-03-14,Spotify,entertainment,play_store,review_bomb_duplicate,22,9,True,False
+8992,good,4,2026-03-13,Spotify,entertainment,play_store,review_bomb_duplicate,28,12,True,False
+8993,جميل جداً,5,2026-03-13,Spotify,entertainment,play_store,review_bomb_duplicate,15,6,True,False
+8995,حلو,5,2026-03-13,Spotify,entertainment,play_store,review_bomb_duplicate,23,10,True,False
+9025,ممتاز,5,2026-03-13,Spotify,entertainment,play_store,review_bomb_duplicate,62,25,True,False
+9031,جميل,5,2026-03-12,Spotify,entertainment,play_store,review_bomb_duplicate,31,13,True,False
+9035,جيد,5,2026-03-12,Spotify,entertainment,play_store,review_bomb_duplicate,55,22,True,False
+9045,جميل جدا,5,2026-03-12,Spotify,entertainment,play_store,exact_duplicate_same_business_rating_platform,15,1,False,False
+9070,ممتازه,5,2026-03-11,Spotify,entertainment,play_store,review_bomb_duplicate,10,4,True,False
+9089,جيد جداً,5,2026-03-10,Spotify,entertainment,play_store,review_bomb_duplicate,21,9,True,False
+9143,ممتازة,5,2026-03-08,Spotify,entertainment,play_store,review_bomb_duplicate,12,5,True,False
+9147,رائع,5,2026-03-08,Spotify,entertainment,play_store,review_bomb_duplicate,26,11,True,False
+9155,Excellent,5,2026-03-07,Spotify,entertainment,play_store,review_bomb_duplicate,10,4,True,False
+9188,جامد,5,2026-03-06,Spotify,entertainment,play_store,review_bomb_duplicate,10,4,True,False
+9191,Good,5,2026-03-06,Spotify,entertainment,play_store,review_bomb_duplicate,28,12,True,False
+9218,ممتاز جداً,5,2026-03-05,Spotify,entertainment,play_store,exact_duplicate_same_business_rating_platform,22,1,False,False
+9235,جيد جدا,5,2026-03-04,Spotify,entertainment,play_store,exact_duplicate_same_business_rating_platform,21,1,False,False
+9268,جميله جدا,5,2026-03-03,Spotify,entertainment,play_store,exact_duplicate_same_business_rating_platform,4,1,False,False
+9279,GOOD,5,2026-03-02,Spotify,entertainment,play_store,exact_duplicate_same_business_rating_platform,28,1,False,False
+9304,تمام,5,2026-03-01,Spotify,entertainment,play_store,review_bomb_duplicate,13,6,True,False
+9354,كويس,5,2026-02-27,Spotify,entertainment,play_store,review_bomb_duplicate,16,7,True,False
+9368,بجنن 💗💗💗💗💗💗💗💗💗💗💗💗💗💗🌛🌛💗💗💗💗💗💗💗💗💗💗💗💗,5,2026-02-27,Spotify,entertainment,play_store,gibberish_like,0,1,False,False
+9375,ahsan tatbi9 dyal lmoi9a,5,2026-02-27,Spotify,entertainment,play_store,arabizi_like,1,1,False,True
+9378,ttbi9 zwin bzaf😍😍,5,2026-02-27,Spotify,entertainment,play_store,arabizi_like,1,1,False,True
+9392,ممتاز,5,2026-03-13,Wego,travel,play_store,review_bomb_duplicate,62,25,True,False
+9398,شكرا,5,2026-03-12,Wego,travel,play_store,review_bomb_duplicate,10,1,False,False
+9409,تمام,5,2026-03-10,Wego,travel,play_store,review_bomb_duplicate,13,6,True,False
+9413,جيد,5,2026-03-09,Wego,travel,play_store,review_bomb_duplicate,55,22,True,False
+9416,خدمه ممتازه,5,2026-03-09,Wego,travel,play_store,review_bomb_duplicate,12,1,False,False
+9418,رائع,5,2026-03-08,Wego,travel,play_store,review_bomb_duplicate,26,11,True,False
+9420,ممتازة,5,2026-03-08,Wego,travel,play_store,review_bomb_duplicate,12,5,True,False
+9421,ممتاز جدا,5,2026-03-08,Wego,travel,play_store,review_bomb_duplicate,22,9,True,False
+9428,جيد جدا,4,2026-03-06,Wego,travel,play_store,review_bomb_duplicate,21,9,True,False
+9443,ممتازه,5,2026-03-01,Wego,travel,play_store,review_bomb_duplicate,10,4,True,False
+9458,شكراً,5,2026-02-25,Wego,travel,play_store,exact_duplicate_same_business_rating_platform,10,1,False,False
+9465,very good,5,2026-02-23,Wego,travel,play_store,review_bomb_duplicate,16,7,True,False
+9468,ممتاز جداً جداً,5,2026-02-23,Wego,travel,play_store,exact_duplicate_same_business_rating_platform,4,1,False,False
+9470,جميل جميل جميل جميل,5,2026-02-22,Wego,travel,play_store,gibberish_like,0,1,False,False
+9474,جميل,5,2026-02-20,Wego,travel,play_store,review_bomb_duplicate,31,13,True,False
+9494,ممتاز جداً,5,2026-02-13,Wego,travel,play_store,exact_duplicate_same_business_rating_platform,22,1,False,False
+9509,حلو,5,2026-02-10,Wego,travel,play_store,review_bomb_duplicate,23,10,True,False
+9543,كويس,5,2026-02-01,Wego,travel,play_store,review_bomb_duplicate,16,7,True,False
+9603,جامد,5,2026-01-14,Wego,travel,play_store,review_bomb_duplicate,10,4,True,False
+9671,ممتاز جدا,5,2026-03-13,Booking,travel,play_store,review_bomb_duplicate,22,9,True,False
+9673,رائع,5,2026-03-13,Booking,travel,play_store,review_bomb_duplicate,26,11,True,False
+9674,ممتاز,5,2026-03-13,Booking,travel,play_store,review_bomb_duplicate,62,25,True,False
+9684,جيد جدا,5,2026-03-11,Booking,travel,play_store,review_bomb_duplicate,21,9,True,False
+9702,Very good,5,2026-03-05,Booking,travel,play_store,review_bomb_duplicate,16,7,True,False
+9703,good,5,2026-03-05,Booking,travel,play_store,review_bomb_duplicate,28,12,True,False
+9723,ممتاز جداً,5,2026-02-28,Booking,travel,play_store,exact_duplicate_same_business_rating_platform,22,1,False,False
+9726,َممتاز,4,2026-02-27,Booking,travel,play_store,review_bomb_duplicate,62,25,True,False
+9729,جميل جدا,5,2026-02-26,Booking,travel,play_store,review_bomb_duplicate,15,6,True,False
+9733,كويس,2,2026-02-24,Booking,travel,play_store,review_bomb_duplicate,16,7,True,False
+9739,جيد جداً,5,2026-02-23,Booking,travel,play_store,exact_duplicate_same_business_rating_platform,21,1,False,False
+9741,ممتازة,5,2026-02-23,Booking,travel,play_store,review_bomb_duplicate,12,5,True,False
+9755,جميل,5,2026-02-14,Booking,travel,play_store,review_bomb_duplicate,31,13,True,False
+9785,excellent,5,2026-02-04,Booking,travel,play_store,review_bomb_duplicate,10,4,True,False
+9841,تمام,4,2026-01-14,Booking,travel,play_store,review_bomb_duplicate,13,6,True,False
+9949,great,5,2025-12-09,Booking,travel,play_store,exact_duplicate_same_business_rating_platform,7,1,False,False
+9980,شكراً,5,2025-11-30,Booking,travel,play_store,review_bomb_duplicate,10,1,False,False
+10012,جدا رائع,5,2025-11-21,Booking,travel,play_store,exact_duplicate_same_business_rating_platform,1,1,False,False
